@@ -1,6 +1,7 @@
 # Simple AI Tools Website
 
-Ini adalah website simpel yang berisi AI Tools berupa QnA dan Text Summarization, tools yang cocok buat kamu yang males baca
+Ini adalah website simpel yang berisi AI Tools berupa QnA dan Text Summarization, tools yang cocok buat kamu yang males baca.
+Projek ini dibuat dengan menggunakan HTML Vanilla dan Flask Library
 
 ## QnA Tool
 
