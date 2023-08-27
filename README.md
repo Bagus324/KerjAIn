@@ -56,3 +56,6 @@ Pilih tools yang akan kamu gunakan, dan kamu bisa mengklik tombol Manual pada ti
 - **Flask**
 - **Torch**
 - **NLTK**
+# Future Plan
+- Menambahkan Tools Hoax Detection
+- Menambahkan Tools Hate Speech Detection
